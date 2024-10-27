@@ -25,7 +25,6 @@ const initProductList = () => {
     new Product(8, 'Tablet', 102, '2024-07-24', 12, false),
     new Product(9, 'Smartwatch', 103, '2024-07-17', 5, true),
     new Product(10, 'External Hard Drive', 106, '2024-07-15', 10, false),
-    new Product(11, 'External Hard Driver', 106, '2024-07-15', 10, true),
   ]
   return productList
 }
